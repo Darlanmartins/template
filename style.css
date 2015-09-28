@@ -121,7 +121,7 @@ table {
 .big-text
 {
 	font-size: 30px;
-	line-height: 50px;
+	line-height: 30px;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 300;
 }
@@ -232,7 +232,7 @@ p.box-desc
 	font-size: 17px;
 	font-weight: 500;
 	font-family: 'Open Sans', sans-serif;
-	line-height: 60px;
+	line-height: 40px;
 	text-align: center;
 }
 .features-section ul
@@ -323,7 +323,7 @@ p.box-desc
 	border-bottom-right-radius: 5px;
 	border-top: none;
 	text-align: center;
-	padding: 10px 0px 20px;
+	padding: 15px 8px 25px;
 }
 .story-box h4
 {
